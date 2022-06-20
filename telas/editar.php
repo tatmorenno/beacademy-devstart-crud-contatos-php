@@ -6,6 +6,6 @@
   <input value="<?php echo $dados[1]; ?>" name="email" class="form-control mt-2" type="text" placeholder="Email">
   <input value="<?php echo $dados[2]; ?>" name="telefone" class="form-control mt-2" type="text" placeholder="Telefone">
 
-  <button class="btn btn-primary mt-3">Enviar</button>
+  <button id="botaum" class="btn btn-primary mt-3">Enviar</button>
 
 </form>
