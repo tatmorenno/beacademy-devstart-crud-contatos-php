@@ -1,6 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">CRUD</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<div class="container-fluid">
+<div class="row">
+
+<nav class="navbar nav-pills navbar-expand-lg navbar-dark bg-dark">
+  <i class="bi bi-person-lines-fill"></i>
+  <a class="navbar-brand" href="/"><i class="bi bi-person-lines-fill"></i>
+CRUD</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Alterna navegação">
     <span class="navbar-toggler-icon"></span>
   </button>
 
@@ -25,6 +30,8 @@
         <a class="nav-link" href="/relatorio">Relatórios</a>
       </li>
     </ul>
+  </div>
+  </div>
   </div>
 </nav>
 
