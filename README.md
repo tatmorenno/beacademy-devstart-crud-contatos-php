@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png" width="150" >
+  <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png" width="300" >
 </p>
 
 <p align="center">
