@@ -1,11 +1,20 @@
-<h1>Novo Contato</h1>
+<div class="row">
+  <div class="col-1 align-self-center jus">
+    <img src="../img/cadastrar.svg" width="90%" alt="">
+  </div>
+  <div class="col align-self-center jus">
+    <h1>Novo Cadastro</h1>
+  </div>
+</div>
 <hr>
-<form action="" method="post">
+  <div class="col-10 align-self-center jus">
 
-  <input name="nome" class="form-control mt-2" type="text" placeholder="Nome">
-  <input name="email" class="form-control mt-2" type="text" placeholder="Email">
-  <input name="telefone" class="form-control mt-2" type="text" placeholder="Telefone">
+  <form action="" method="post">
 
-  <button class="btn btn-primary mt-3">Enviar</button>
+    <input name="nome" class="form-control mt-2" type="text" placeholder="Nome">
+    <input name="email" class="form-control mt-2" type="text" placeholder="Email">
+    <input name="telefone" class="form-control mt-2" type="text" placeholder="Telefone">
 
+    <button id="botaum" class="btn btn-primary mt-3">Enviar</button>
+  </div>
 </form>
