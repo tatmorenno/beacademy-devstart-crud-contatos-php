@@ -1,9 +1,33 @@
+#first-button {
+  border-radius: 50%;
+  height: 5rem;
+  width: 5rem;
+  background-color: #7d46c1;
+  border: white solid .01rem;
+  color: #fff;
+box-shadow: 0 0 40px 40px #7d46c1 inset, 0 0 0 0 #3498db;
+-webkit-transition: all 150ms ease-in-out;
+transition: all 150ms ease-in-out;
+font-size: 2.2rem;
+}
+
+#first-button:hover {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+  transform: scale(1.1);
+  transition: all 0.5s;
+  background-color: #7d46c1;
+  border: #fff solid 0.01rem;
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  font-size: 2.9rem;
+}
+
 #botaum {
   background-color: #7d46c1;
   height: 3rem;
   width: 6rem;
   border: #fff solid 0.01rem;
-
 
 }
 
@@ -14,4 +38,55 @@
   transition: all 0.5s;
   background-color: black;
   border: #fff solid 0.01rem;
+}
+
+#excluir {
+  height: 2.1rem;
+  width: 6rem;
+  background-color: rgba(186, 21, 52, 0.675);
+  border: #fff solid 0.01rem;
+  color: white;
+}
+
+
+#excluir:hover {
+  height: 2.2rem;
+  width: 6rem;
+  transform: scale(1.1);
+  transition: all 0.5s;
+  background-color: rgba(209, 28, 61, 0.675);
+  border: #fff solid 0.01rem;
+  color: white;
+
+}
+
+#editar {
+  height: 2.1rem;
+  width: 6rem;
+  background-color: rgba(209, 188, 28, 0.675);
+  border: #fff solid 0.01rem;
+  color: black;
+}
+
+
+#editar:hover {
+  height: 2.2rem;
+  width: 6rem;
+  transform: scale(1.1);
+  transition: all 0.5s;
+  background-color: rgba(209, 188, 28, 0.675);
+  border: #fff solid 0.01rem;
+  color: black;
+}
+
+#anchor {
+  color: #fff;
+}
+
+#anchor:hover {
+  height: 2.2rem;
+  width: 6rem;
+  transform: scale(1.1);
+  transition: all 0.5s ease-in-out;
+  color: black;
 }
