@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tatmorenno/beacademy-devstart-crud-contatos-php/blob/main/img/print.png" width="150" >
+  <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png" width="150" >
 </p>
 
 <p align="center">
