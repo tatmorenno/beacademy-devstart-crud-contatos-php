@@ -11,10 +11,9 @@
 
   <form action="" method="post">
 
-    <input name="nome" class="form-control mt-2" type="text" placeholder="Nome">
-    <input name="email" class="form-control mt-2" type="text" placeholder="Email">
-    <input name="telefone" class="form-control mt-2" type="text" placeholder="Telefone">
-
-    <button id="botaum" class="btn btn-primary mt-3">Enviar</button>
+    <input required name="nome" class="form-control mt-2" type="text" placeholder="Nome">
+    <input required name="email" class="form-control mt-2" type="email" placeholder="Email">
+    <input required name="telefone" class="form-control mt-2" type="number" placeholder="Telefone">
+    <button id="botaum" class="btn btn-primary mt-3"><i class="bi bi-send"></i> Enviar</button>
   </div>
 </form>
