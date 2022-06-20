@@ -26,10 +26,10 @@
             echo "<td>
             <div class='container text-center'>
 
-                  <a href='/excluir?id={$posicao}' class='btn btn-danger btn-sm'>
+                  <a href='/excluir?id={$posicao}' class='btn btn-sm' id='excluir'>
                     <i class='bi bi-trash3-fill'><span> Excluir</span></i>
                   </a>
-                  <a href='/editar?id={$posicao}' class='btn btn-warning btn-sm'>
+                  <a href='/editar?id={$posicao}' class='btn btn-sm' id='editar'>
                     <i class='bi bi-pencil-square'><span> Editar</span></i>
                   </a>
                   </td>
