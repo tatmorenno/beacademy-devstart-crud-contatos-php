@@ -1,3 +1,5 @@
-<h1>Relatórios</h1>
-
-<img src="/img/report.svg" alt="" width="40%">
+  <h1>Relatórios</h1>
+  <div class="container text-center">
+    <img src="/img/report.svg" alt="" width="60%">
+  </div>
+  <hr>
